@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Zwiseli;Hans-Ueli;;;
+FN:Hans-Ueli Zwiseli
+ORG:Organisation;
+TITLE:Dr.
+EMAIL;TYPE=PREF,INTERNET:mail@example.com
+TEL;TYPE=CELL,voice:+41 99 999 99 99
+TEL;TYPE=WORK,voice:+41 99 999 99 99
+ADR;TYPE=WORK;type=pref:;;Strasse 1;Bern;;3000;Switzerland
+URL:example.com
+NOTE: notice
+END:VCARD
