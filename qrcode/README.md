@@ -9,4 +9,4 @@ The script will generate three different examples:
 
 pipenv install
 
-pipenv run python generate_qrcode.py
+pipenv run python [generate_qrcode.py](generate_qrcode.py)
